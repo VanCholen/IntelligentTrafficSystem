@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/carControl.png</file>
+        <file>images/carControl64x64.png</file>
+        <file>images/carLocation.png</file>
+        <file>images/connect64x64.png</file>
+        <file>images/dataMonitor.png</file>
+        <file>images/dataMonitor64x64.png</file>
+        <file>images/home64x64.png</file>
+        <file>images/home256x256.png</file>
+        <file>images/MB_0015_reload.png</file>
+        <file>images/MB_0019_shut-down.png</file>
+        <file>images/roadControl64x64.png</file>
+        <file>images/roadControl256x256.png</file>
+        <file>images/server64x64.png</file>
+        <file>images/server128x128.png</file>
+        <file>images/spnew.png</file>
+        <file>images/tool64x64.png</file>
+        <file>images/file.png</file>
+        <file>images/monitor.jpg</file>
+        <file>images/car128x128.png</file>
+        <file>images/road512x512.png</file>
+        <file>images/road1.png</file>
+        <file>images/map.png</file>
+        <file>images/car1.png</file>
+        <file>images/close64x64.png</file>
+        <file>images/easyserial.ico</file>
+        <file>images/refresh128x128.png</file>
+        <file>images/trash64x64.png</file>
+        <file>images/pic.png</file>
+        <file>images/light.png</file>
+    </qresource>
+</RCC>
